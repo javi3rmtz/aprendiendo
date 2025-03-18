@@ -5,10 +5,10 @@ public class Ejercicio1 {
         Scanner input = new Scanner(System.in);
 
             System.out.println("ingrese el numero 1");
-            double numero1 = input.nextInt();
+            double numero1 = input.nextDouble();
 
             System.out.println("ingrese el numero 2");
-            double numero2 = input.nextInt();
+            double numero2 = input.nextDouble();
 
             if (numero1 > numero2) {
                 double resultadoSum = numero1 + numero2;
