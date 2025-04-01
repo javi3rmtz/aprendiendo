@@ -12,7 +12,7 @@ public class EjemploMatriz {
             for (int j = 0; j < matriz[i].length; j++) {
                 System.out.print(matriz[i][j] + " ");
             }
-            System.out.println(); // Salto de línea para cada fila
+            System.out.println(matriz[i]); // Salto de línea para cada fila
         }
     }
 }
