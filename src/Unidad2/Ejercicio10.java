@@ -40,6 +40,7 @@ public class Ejercicio10 {
         }
 
         scanner.close();
+        
     }
 }
 
